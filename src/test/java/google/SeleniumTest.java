@@ -26,6 +26,11 @@ public class SeleniumTest {
 	public void elementsUI4() {
 		System.out.println("elementsUI4");
 	}
+	
+	@Test
+	public void iOSApps131() {
+		System.out.println("iOSApps34");
+	}
 
 
 }
