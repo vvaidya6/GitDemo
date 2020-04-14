@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-05T22:47:45 IST" name="Regression" finished-at="2020-04-05T22:47:45 IST" duration-ms="66">
+    <groups>
+    </groups>
+    <test started-at="2020-04-05T22:47:45 IST" name="Test" finished-at="2020-04-05T22:47:45 IST" duration-ms="66">
+      <class name="google.AppiumTest">
+        <test-method signature="NativeAndroidApps()[pri:0, instance:google.AppiumTest@3c87521]" started-at="2020-04-05T22:47:45 IST" name="NativeAndroidApps" finished-at="2020-04-05T22:47:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAndroidApps -->
+        <test-method signature="iOSApps()[pri:0, instance:google.AppiumTest@3c87521]" started-at="2020-04-05T22:47:45 IST" name="iOSApps" finished-at="2020-04-05T22:47:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iOSApps -->
+      </class> <!-- google.AppiumTest -->
+      <class name="google.RestAPITest">
+        <test-method signature="deleteTwitter()[pri:0, instance:google.RestAPITest@14a2f921]" started-at="2020-04-05T22:47:45 IST" name="deleteTwitter" finished-at="2020-04-05T22:47:45 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method signature="postJira()[pri:0, instance:google.RestAPITest@14a2f921]" started-at="2020-04-05T22:47:45 IST" name="postJira" finished-at="2020-04-05T22:47:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- google.RestAPITest -->
+      <class name="google.SeleniumTest">
+        <test-method signature="browserAutomation()[pri:0, instance:google.SeleniumTest@2aece37d]" started-at="2020-04-05T22:47:45 IST" name="browserAutomation" finished-at="2020-04-05T22:47:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method signature="elementsUI()[pri:0, instance:google.SeleniumTest@2aece37d]" started-at="2020-04-05T22:47:45 IST" name="elementsUI" finished-at="2020-04-05T22:47:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- google.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Regression -->
+</testng-results>
