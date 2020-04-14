@@ -7,6 +7,8 @@ public class RestAPITest {
 	@Test
 	public void postJira() {
 		System.out.println("postJira");
+		System.out.println("Raise a Bug");
+		System.out.println("Generate Sprint report");
 	}
 	
 	@Test
