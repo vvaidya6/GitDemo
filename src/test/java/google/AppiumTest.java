@@ -11,21 +11,21 @@ public class AppiumTest {
 	
 	@Test
 	public void iOSApps() {
-		System.out.println("iOSApps");
+		System.out.println("iOSApps-Safari");
 	}
 	
 	@Test
 	public void iOSApps2() {
-		System.out.println("iOSApps2");
+		System.out.println("iOSApps2-Itunes");
 	}
 	
 	@Test
 	public void iOSApps3() {
-		System.out.println("iOSApps3");
+		System.out.println("iOSApps3-cure fit");
 	}
 	
 	@Test
 	public void iOSApps4() {
-		System.out.println("iOSApps4");
+		System.out.println("iOSApps4-iWatch");
 	}
 }

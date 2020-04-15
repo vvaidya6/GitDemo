@@ -24,19 +24,19 @@ public class RestAPITest {
 
 	@Test
 	public void deleteTwitter2() {
-		System.out.println("deleteTwitter2");
+		System.out.println("deleteTwittegsahdgr2");
 	}
 
 
 	@Test
 	public void deleteTwitter3() {
-		System.out.println("deleteTwitter3");
+		System.out.println("deleteTwitteasdkjhsakr3");
 	}
 
 
 	@Test
 	public void deleteTwitter4() {
-		System.out.println("deleteTwitter4");
+		System.out.println("deleteTwitteasjkdhkjr4");
 	}
 
 }
