@@ -10,6 +10,11 @@ public class AppiumTest {
 	}
 	
 	@Test
+	public void HybridAndroidApps() {
+		System.out.println("HybridAndroidApps");
+	}
+	
+	@Test
 	public void iOSApps() {
 		System.out.println("iOSApps-Safari");
 	}
